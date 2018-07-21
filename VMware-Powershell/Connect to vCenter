@@ -1,0 +1,2 @@
+Get-PowerCLIConfiguration
+Set-PowerCLIConfiguration -InvalidCertificateAction ignore -confirm:$false
